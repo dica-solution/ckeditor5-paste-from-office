@@ -1,7 +1,7 @@
 
 # Files associated with CKEditor 5 repository.
 **/node_modules
-build/
+# build/
 !packages/ckeditor5-build-*/build
 docs/api/output.json
 yarn.lock
